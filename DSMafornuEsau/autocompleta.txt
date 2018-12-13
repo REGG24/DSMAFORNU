@@ -1,0 +1,2 @@
+https://serprogramador.es/autocompletar-java-swing-autocompleter/
+https://github.com/santi101093/Laboratorio/blob/master/WildSoft/src/Interfaz/JDialogs/Interfaz_ABM_Pedido.java
